@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://singoddly.github.io/sitemap/sitemap.txt
